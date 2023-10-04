@@ -7,13 +7,13 @@ The Purpose was to collect data of fundrasing  compaign
 ## Analysis and Challenges
 The challenges of this project was at first collect and putting the data into it 
 ### Analysis of Outcomes Based on Launch Date
-[LineChart](Resources/Line_Chart.PNG)
+![LineChart](Resources/Line_Chart.PNG)
 ### Analysis of Outcomes Based on Goals
-[LineChart](Resources/Line_Chart2.PNG)
+![LineChart](Resources/Line_Chart2.PNG)
 ### Challenges and Difficulties Encountered
 The challenges and difficulties i eccountered was making the charts
 ## Results
-[Dashboard](Resources/DashBoard.PNG)
+![Dashboard](Resources/DashBoard.PNG)
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 The conclusions i can draw were that they all came up after the launch date also that it took a long time for them to come up
 - What can you conclude about the Outcomes based on Goals?
