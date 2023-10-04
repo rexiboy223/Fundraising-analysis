@@ -13,7 +13,7 @@
 ### Challenges and Difficulties Encountered
 
 ## Results
-
+[Dashboard](Resources/DashBoard.PNG)
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
 - What can you conclude about the Outcomes based on Goals?
