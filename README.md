@@ -19,5 +19,6 @@ The conclusions i can draw were that they all came up after the launch date also
 - What can you conclude about the Outcomes based on Goals?
   I conclude that the outcomes on goals was and up and down on the line chart
 - What are some limitations of this dataset?
-
+Some limitattions of this data set was some data on the organial page i could not edit
 - What are some other possible tables and/or graphs that we could create?
+Other tables i could of made was an area graph to show other areas of the campaign could of went to.
