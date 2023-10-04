@@ -7,7 +7,7 @@ The Purpose was to collect data of fundrasing  compaign
 ## Analysis and Challenges
 The challenges of this project was at first collect and putting the data into it 
 ### Analysis of Outcomes Based on Launch Date
-
+[LineChart](Line_Chart.PNG)
 ### Analysis of Outcomes Based on Goals
 
 ### Challenges and Difficulties Encountered
